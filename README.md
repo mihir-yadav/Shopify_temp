@@ -1,2 +1,2 @@
 # Shopify
-An online shopping website
+An online shopping website made using Django.
